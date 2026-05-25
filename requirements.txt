@@ -5,3 +5,7 @@ nltk
 gensim
 transformers
 torch
+sentencepiece
+tokenizers
+arabic-reshaper
+python-bidi
